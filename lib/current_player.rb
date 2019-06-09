@@ -8,3 +8,8 @@ def turn_count(board_array)
   end
 counter
 end
+
+def current_player(game_board)
+  turn_count(game_board)
+    if %
+  
