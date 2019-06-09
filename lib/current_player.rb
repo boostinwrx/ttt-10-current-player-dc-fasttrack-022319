@@ -6,3 +6,4 @@ board_array.each do |num|
   end
 end
 
+end
